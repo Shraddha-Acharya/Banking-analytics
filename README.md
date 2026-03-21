@@ -2,19 +2,9 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.10-blue)
+\## 🛠️ Tech Stack
 
-!\[SQL](https://img.shields.io/badge/SQL-SQLite-orange)
-
-!\[Excel](https://img.shields.io/badge/Excel-Analysis-green)
-
-!\[Tableau](https://img.shields.io/badge/Tableau-Public-lightblue)
-
-!\[PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
-
-!\[ML](https://img.shields.io/badge/ML-ScikitLearn-red)
-
-!\[Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+Python | SQL | Excel | Tableau | Power BI | Scikit-Learn | Git
 
 
 
@@ -38,29 +28,7 @@ and financial health insights.
 
 \- Which bank branches perform best?
 
-\- What is the financial health score of each customer segment?
-
-
-
-\## 🛠️ Complete Tech Stack
-
-| Tool | Purpose |
-
-|---|---|
-
-| Python + Pandas | Data cleaning and EDA |
-
-| SQL (SQLite) | 12 business queries |
-
-| Microsoft Excel | Pivot tables and charts |
-
-| Tableau Public | Interactive dashboard |
-
-| Power BI Desktop | Interactive dashboard |
-
-| Scikit-Learn | ML models |
-
-| Git + GitHub | Version control |
+\- What is the financial health score of each customer?
 
 
 
@@ -78,27 +46,27 @@ and financial health insights.
 
 | excel/ | Excel analysis |
 
-| dashboard/ | Power BI file |
+| dashboard/ | Power BI + Tableau |
 
 | report/ | Final PDF report |
 
 
 
-\## 🔑 Key Features
+\## 🔑 Key Highlights
 
 \- \*\*FinancialHealthScore\*\* — Custom 0-100 scoring system
 
-\- \*\*Loan Default Predictor\*\* — ML model with ROC-AUC 0.89
+\- \*\*Loan Default Predictor\*\* — ML model
 
-\- \*\*Dual Dashboard\*\* — Built in both Tableau AND Power BI
+\- \*\*Dual Dashboard\*\* — Built in Tableau AND Power BI
 
-\- \*\*12 SQL Queries\*\* — Real business intelligence queries
+\- \*\*12 SQL Queries\*\* — Real business intelligence
 
 
 
-\## 📊 Project Status
+\## 📊 Project Progress
 
-\- \[x] Phase 1 — Setup \& Git ✅
+\- \[x] Phase 1 — Setup and Git ✅
 
 \- \[ ] Phase 2 — Data Collection
 
@@ -124,5 +92,5 @@ and financial health insights.
 
 \*\*Shraddha Acharya\*\* — Aspiring Data Analyst
 
-📍 Bengaluru, India
+Bengaluru, India
 
